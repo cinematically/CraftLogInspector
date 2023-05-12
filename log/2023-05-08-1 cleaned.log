@@ -1,0 +1,23 @@
+[00:00:03] [pool-8-thread-1/INFO]: [VotingPlugin] Detected day changed, processing...
+[00:00:03] [pool-8-thread-1/INFO]: [VotingPlugin] Time change event: DAY, Fake: false
+[00:00:13] [pool-8-thread-1/INFO]: [VotingPlugin] Finished processing day change, took 10 seconds
+[00:00:13] [pool-8-thread-1/INFO]: [VotingPlugin] Created zip file at C:\Users\7\Desktop\minecraft\plugins\VotingPlugin\Backups\Backup-2023_MAY_8.zip
+[00:00:13] [pool-8-thread-1/INFO]: [VotingPlugin] Finished processing day changes
+[02:07:14] [User Authenticator #9/INFO]: UUID of player iTKE is a2ebafd6-4724-4093-86e4-8f5d9b020ae5
+[02:07:14] [Server thread/INFO]: iTKE joined the game
+[05:34:13] [Craft Scheduler Thread - 767/INFO]: [Vault] Checking for Updates ... 
+[05:34:13] [Craft Scheduler Thread - 767/INFO]: [Vault] No new version available
+[05:42:09] [User Authenticator #10/INFO]: UUID of player AuroraPlayMC is 9c2eb28e-4bd5-4721-a0d6-49e73bf60e04
+[05:42:09] [Server thread/INFO]: AuroraPlayMC joined the game
+[06:00:15] [Server thread/INFO]: AuroraPlayMC fell from a high place
+[06:37:50] [Server thread/INFO]: AuroraPlayMC has completed the challenge [Cover Me in Debris]
+[08:21:09] [Server thread/INFO]: AuroraPlayMC was slain by Zombie
+[11:34:13] [Craft Scheduler Thread - 903/INFO]: [Vault] Checking for Updates ... 
+[11:34:13] [Craft Scheduler Thread - 903/INFO]: [Vault] No new version available
+[15:34:13] [Timer-10/INFO]: [VotingPlugin] VotingPlugin has an update available! Your Version: 6.12.1 New Version: 6.12.2
+[17:34:13] [Craft Scheduler Thread - 933/INFO]: [Vault] Checking for Updates ... 
+[17:34:13] [Craft Scheduler Thread - 933/INFO]: [Vault] No new version available
+[21:44:40] [User Authenticator #11/INFO]: UUID of player Hannahsm6 is 83df02c9-2c30-4592-989e-a871dc3aff5e
+[21:44:40] [Server thread/INFO]: Hannahsm6 joined the game
+[23:34:13] [Craft Scheduler Thread - 1008/INFO]: [Vault] Checking for Updates ... 
+[23:34:13] [Craft Scheduler Thread - 1008/INFO]: [Vault] No new version available
